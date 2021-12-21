@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "3",
+  "title": "LPs of VaderPoolV2 can manipulate pool reserves to extract funds from the reserve",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/54"
+}
