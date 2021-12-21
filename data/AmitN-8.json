@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "AmitN",
+  "address": "0x7eb10E4380Ae01ab902fe4A24b63180064A2bD37",
+  "risk": "0",
+  "title": "Redudant 2nd call to lastTimeRewardApplicable in StakingRewards.sol",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/8"
+}
