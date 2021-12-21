@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "2",
+  "title": "Covered IL loss protection should linearly increase over 100 days and not one year",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/53"
+}
