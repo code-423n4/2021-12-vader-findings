@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "xnarus",
+  "address": "0x8cafc50f34Fba1d46A776679c8245bf9ed58c533",
+  "risk": "1",
+  "title": "Returns not assigned value",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/66"
+}
