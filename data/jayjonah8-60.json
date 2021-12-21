@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "No check that native and foreign assets are equal in value in the mint() function ",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/60"
+}
