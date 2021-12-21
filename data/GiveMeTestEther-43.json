@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "1",
+  "title": "VaderMath:calculateSlipAdjustment() wrong comments",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/43"
+}
