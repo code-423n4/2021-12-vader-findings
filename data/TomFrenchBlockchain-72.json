@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959ed8307ee2b0d04306f6b319aeee8864f1ee",
+  "risk": "3",
+  "title": "VaderPoolV2 owner can steal all user assets which are approved VaderPoolV2",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/72"
+}
