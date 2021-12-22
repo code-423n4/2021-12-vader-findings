@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "loop over dynamic arrays can cause out of gas errors ",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/90"
+}
