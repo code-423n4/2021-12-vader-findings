@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959ed8307ee2b0d04306f6b319aeee8864f1ee",
+  "risk": "G",
+  "title": "Unnecessary checks on VADER token address in oracle.",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/69"
+}
