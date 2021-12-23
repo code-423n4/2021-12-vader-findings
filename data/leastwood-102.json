@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "1",
+  "title": "`_addVaderPair` and `_addUSDVPair` Does Not Check For Duplicate Token Pairs",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/102"
+}
