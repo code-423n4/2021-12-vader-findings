@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "3",
+  "title": "`totalLiquidityWeight` Is Updated When Adding New Token Pairs Which Skews Price Data For `getVaderPrice` and `getUSDVPrice`",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/105"
+}
