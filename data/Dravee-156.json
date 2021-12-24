@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "Dravee",
+  "address": "0x319DCd0306908Ce08Ffa6F5e5b6B6a4ff8CCB9DE",
+  "risk": "G",
+  "title": "`LiquidityBasedTWAP.getStaleUSDVPrice()` Gas Optimization",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/156"
+}
