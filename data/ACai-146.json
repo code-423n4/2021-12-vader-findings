@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "ACai",
+  "address": "0x0187A7442260787bD8cac7FEE883615F18d8b3fa",
+  "risk": "1",
+  "title": "`rewardRate` parameter are not updated in time",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/146"
+}
