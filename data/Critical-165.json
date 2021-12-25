@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "Critical",
+  "address": "0x07e6509914F956bEcec902265A6cf36F15a98E29",
+  "risk": "3",
+  "title": "mintSynth() can transfer funds from an arbitrary address",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2021-12-vader-findings/issues/165"
+}
